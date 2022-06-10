@@ -1,0 +1,21 @@
+{
+  "name": "templatenode",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "author": "Olha Bevziuk",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "gsap": "^3.10.4",
+    "jquery": "^3.6.0",
+    "slick-carousel": "^1.8.1"
+  }
+}
