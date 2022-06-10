@@ -23,8 +23,6 @@ html, body{
 
 .slider {
   margin: 0 auto;
-  left: 5%;
-  right: 5%;
 }
 
 .slick-track {
@@ -42,7 +40,6 @@ html, body{
 .slick-slide:not(.slick-current) {
   filter: brightness(0.5);
   transform: scale(1) !important;
-	/* filter: blur(2px); */
 }
 
 .slick-slide.slick-current {
@@ -78,7 +75,6 @@ button:hover{
   color: black;
   border: 1px solid black;
   z-index: 5 !important;
-
 }
 
  button:after {
@@ -107,7 +103,6 @@ button:hover{
   left: 0px;
   transition: 0.2s;
   z-index: -1;
-
 }
 
  button:hover span:last-child {
@@ -128,7 +123,6 @@ button:hover{
   width: 50px;
   height: 50px;
   overflow: hidden;
-  /* text-indent: 51px; */
   background-position: center;
   background-repeat: no-repeat;
   cursor: pointer;
@@ -139,7 +133,6 @@ button:hover{
 }
 
 .slick-prev:hover {
-  content: '\f104';
   top: 42%;
   left:2%;
 }

@@ -1,4 +1,4 @@
-## Description
+## Description of the project
 The infinite carousel by default includes **50** slides and displays **7** items at a time.
 There are buttons that allow to control the carousel, such as going forward/back, repeat slide animation, etc.
 When the carousel is animated, the active slide will be highlighted in the center of the carousel to make it obvious that the slide is selected.
